@@ -1,0 +1,40 @@
+{
+    "promotions": [
+        {
+            "type": "merchant",
+            "id": "1",
+            "description": "Discount Makanan & Minuman 25%",
+            "merchantName": "Bakmi GM"
+        },
+        {
+            "type": "merchant",
+            "id": "2",
+            "description": "Discount Makanan 15%",
+            "merchantName": "Pizza Hut"
+        },
+        {
+            "type": "merchant",
+            "id": "3",
+            "description": "Discount Pakaian dan Acessories 20%",
+            "merchantName": "Sogo Department Store"
+        },
+        {
+            "type": "merchant",
+            "id": "2",
+            "description": "Discount Minuman 10%",
+            "merchantName": "Pizza Hut"
+        },
+        {
+            "type": "merchant",
+            "id": "2",
+            "description": "Discount Minuman 10%",
+            "merchantName": "Pizza Hut"
+        },
+        {
+            "type": "merchant",
+            "id": "2",
+            "description": "Discount Minuman 10%",
+            "merchantName": "Pizza Hut"
+        }
+    ]
+}
